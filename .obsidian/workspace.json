@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "红宝石.md",
+                "file": "猎户座.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "红宝石.md",
+                "file": "猎户座.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "红宝石.md",
+                "file": "猎户座.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "红宝石.md"
+                "file": "猎户座.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "31d9c37830bc13b9",
+  "active": "f6836ff1d229114b",
   "lastOpenFiles": [
+    "红宝石.md",
     "黄丽.md",
     "铭月.md",
     "蓝鸟.md",
-    "红宝石.md",
     "鹿角海棠.md",
     "千佛手.md",
     "锦晃星.md",
