@@ -1,0 +1,8 @@
+{
+    "id": "obsidian-git",
+    "name": "Obsidian Git 备份及版本控制",
+    "description": "用Git备份你的存储库",
+    "isDesktopOnly": false,
+    "js": "main.js",
+    "version": "2.8.0"
+}

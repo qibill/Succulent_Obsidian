@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "9e21ba16bba8d5f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbd0540f054136d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6836ff1d229114b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "红宝石.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d22b41fc75975d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a92aaa7346aa99a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82fcf88f430d4f3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d190dd954838af6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96d9d3296f6f971f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0a1a60f3e702b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "66b5a5f201e0ba42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "055db339e797b46d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "红宝石.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac7217f6066514fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "红宝石.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18aa6920e69a515a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31d9c37830bc13b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "红宝石.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "31d9c37830bc13b9",
+  "lastOpenFiles": [
+    "黄丽.md",
+    "铭月.md",
+    "蓝鸟.md",
+    "红宝石.md",
+    "鹿角海棠.md",
+    "千佛手.md",
+    "锦晃星.md",
+    "红稚莲.md",
+    "鹿角海棠属.md",
+    "钱串景天.md",
+    "吉娃莲.md",
+    "桃蛋.md",
+    "蒂亚.md",
+    "猎户座.md",
+    "火祭.md",
+    "天使之泪.md",
+    "三色堇.md",
+    "未命名.canvas",
+    "未命名",
+    "景天科/v2-3d1cb375adc4ba660b6d49bb6d19bd3f_r.jpg",
+    "附件",
+    "阿福花科",
+    "景天科"
+  ]
+}
