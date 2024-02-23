@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d53928b49832e92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Notion": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -147,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f6836ff1d229114b",
+  "active": "0d53928b49832e92",
   "lastOpenFiles": [
     "猎户座.md",
     "红宝石.md",
