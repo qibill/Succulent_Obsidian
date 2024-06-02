@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d53928b49832e92",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +148,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0d53928b49832e92",
+  "active": "f6836ff1d229114b",
   "lastOpenFiles": [
     "猎户座.md",
     "红宝石.md",
