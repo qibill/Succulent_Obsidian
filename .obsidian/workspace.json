@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bbd0540f054136d4",
+        "id": "7376471f91b4cf4f",
         "type": "tabs",
         "children": [
           {
-            "id": "f6836ff1d229114b",
+            "id": "d2626fdc9b83f9f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "鹿角海棠.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鹿角海棠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鹿角海棠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "鹿角海棠.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,14 +140,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f6836ff1d229114b",
+  "active": "d2626fdc9b83f9f3",
   "lastOpenFiles": [
+    "鹿角海棠.md",
     "猎户座.md",
     "红宝石.md",
     "黄丽.md",
     "铭月.md",
     "蓝鸟.md",
-    "鹿角海棠.md",
     "千佛手.md",
     "锦晃星.md",
     "红稚莲.md",
