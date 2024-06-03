@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7376471f91b4cf4f",
+        "id": "124f24a57b8face4",
         "type": "tabs",
         "children": [
           {
-            "id": "d2626fdc9b83f9f3",
+            "id": "d3fd15fbee4c46cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,7 +140,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d2626fdc9b83f9f3",
+  "active": "d3fd15fbee4c46cd",
   "lastOpenFiles": [
     "鹿角海棠.md",
     "猎户座.md",
