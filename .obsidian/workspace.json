@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7e818725514747",
+        "id": "9a9b938e1c65d021",
         "type": "tabs",
         "children": [
           {
-            "id": "39382d3bff9d171e",
+            "id": "c315234c99d627c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天使之泪.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "天使之泪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "天使之泪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "天使之泪.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,8 +140,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39382d3bff9d171e",
+  "active": "c315234c99d627c6",
   "lastOpenFiles": [
+    "天使之泪.md",
     "桃蛋.md",
     "三色堇.md",
     "钱串景天.md",
@@ -166,7 +159,6 @@
     "蒂亚.md",
     "蓝鸟.md",
     "鹿角海棠属.md",
-    "天使之泪.md",
     "未命名.canvas",
     "未命名",
     "景天科/v2-3d1cb375adc4ba660b6d49bb6d19bd3f_r.jpg",
