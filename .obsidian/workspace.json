@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "124f24a57b8face4",
+        "id": "2d7e818725514747",
         "type": "tabs",
         "children": [
           {
-            "id": "d3fd15fbee4c46cd",
+            "id": "39382d3bff9d171e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "天使之泪.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "天使之泪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "天使之泪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "天使之泪.md"
+              }
             }
           }
         ],
@@ -142,25 +148,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d3fd15fbee4c46cd",
+  "active": "39382d3bff9d171e",
   "lastOpenFiles": [
+    "桃蛋.md",
+    "三色堇.md",
+    "钱串景天.md",
+    "千佛手.md",
+    "铭月.md",
     "鹿角海棠.md",
     "猎户座.md",
-    "红宝石.md",
-    "黄丽.md",
-    "铭月.md",
-    "蓝鸟.md",
-    "千佛手.md",
     "锦晃星.md",
-    "红稚莲.md",
-    "鹿角海棠属.md",
-    "钱串景天.md",
     "吉娃莲.md",
-    "桃蛋.md",
-    "蒂亚.md",
+    "黄丽.md",
     "火祭.md",
+    "红稚莲.md",
+    "红宝石.md",
+    "蒂亚.md",
+    "蓝鸟.md",
+    "鹿角海棠属.md",
     "天使之泪.md",
-    "三色堇.md",
     "未命名.canvas",
     "未命名",
     "景天科/v2-3d1cb375adc4ba660b6d49bb6d19bd3f_r.jpg",
