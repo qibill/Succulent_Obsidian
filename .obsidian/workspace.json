@@ -11,11 +11,28 @@
             "id": "c315234c99d627c6",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-notion",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "红稚莲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "677fe21a78b6baa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "花盆/秋凛子.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "花盆/秋凛子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "花盆/秋凛子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "花盆/秋凛子.md"
+              }
             }
           }
         ],
@@ -140,11 +161,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c315234c99d627c6",
+  "active": "82fcf88f430d4f3c",
   "lastOpenFiles": [
+    "秋丽.md",
+    "花盆/秋凛子.md",
+    "三色堇.md",
+    "花盆/红晓音.md",
+    "紫卡.md",
+    "紫蝶.md",
+    "黄丽.md",
+    "花盆/透明杯.md",
+    "花盆",
+    "紫卡",
+    "红稚莲.md",
+    "红宝石.md",
+    "蒂亚.md",
     "天使之泪.md",
     "桃蛋.md",
-    "三色堇.md",
     "钱串景天.md",
     "千佛手.md",
     "铭月.md",
@@ -152,15 +185,10 @@
     "猎户座.md",
     "锦晃星.md",
     "吉娃莲.md",
-    "黄丽.md",
     "火祭.md",
-    "红稚莲.md",
-    "红宝石.md",
-    "蒂亚.md",
     "蓝鸟.md",
     "鹿角海棠属.md",
     "未命名.canvas",
-    "未命名",
     "景天科/v2-3d1cb375adc4ba660b6d49bb6d19bd3f_r.jpg",
     "附件",
     "阿福花科",
