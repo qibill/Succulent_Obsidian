@@ -128,14 +128,21 @@
                 "file": "黄丽.md"
               }
             }
+          },
+          {
+            "id": "4063b1de3f51c0cd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
