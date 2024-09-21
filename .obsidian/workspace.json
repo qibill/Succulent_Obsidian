@@ -11,10 +11,11 @@
             "id": "e8350c1b70823948",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "火祭.md",
-                "staged": false
+                "file": "长生草.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "长生草.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "长生草.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "长生草.md"
+              }
             }
           },
           {
@@ -132,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,6 +156,12 @@
   },
   "active": "e8350c1b70823948",
   "lastOpenFiles": [
+    "花盆/蓝盆.md",
+    "新玉缀.md",
+    "花盆/透明杯.md",
+    "绒针.md",
+    "花盆/秋凛子.md",
+    "花盆/红晓音.md",
     "三色堇.md",
     "花盆/粉盆.md",
     "青星美人.md",
@@ -165,19 +175,13 @@
     "蓝鸟.md",
     "紫乐.md",
     "长生草.md",
-    "新玉缀.md",
     "紫蝶.md",
     "乙女心.md",
-    "绒针.md",
     "冰绒.md",
     "姬胧月.md",
     "钱串景天.md",
     "千佛手.md",
     "钱串.md",
-    "碧桃.md",
-    "景天属.md",
-    "铭月.md",
-    "红宝石.md",
     "花盆",
     "紫卡",
     "未命名.canvas",
