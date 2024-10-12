@@ -141,14 +141,6 @@
                 "file": "绒针.md"
               }
             }
-          },
-          {
-            "id": "4063b1de3f51c0cd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -167,7 +159,40 @@
       "obsidian-custom-frames:Open Notion": false
     }
   },
-  "active": "d115bfa69fc0f7f2",
+  "floating": {
+    "id": "874a83606aa1d86d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7f4bb7d628778222",
+        "type": "window",
+        "children": [
+          {
+            "id": "c0d9a90fb6fdc97f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4063b1de3f51c0cd",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1138,
+        "y": 21,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4063b1de3f51c0cd",
   "lastOpenFiles": [
     "达摩宝珠.md",
     "黄丽.md",
