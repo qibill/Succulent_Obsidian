@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bddb0d213dc64b0f",
+        "id": "807c1876af67692b",
         "type": "tabs",
         "children": [
           {
-            "id": "3c0abe5d491638af",
+            "id": "ca81a4b556c3b5b4",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "达摩宝珠.md",
-                "staged": true
-              }
-            }
-          },
-          {
-            "id": "5ded114ccc16f7a0",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/graph.json",
-                "staged": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +147,7 @@
       "obsidian-custom-frames:Open Notion": false
     }
   },
-  "active": "5ded114ccc16f7a0",
+  "active": "ca81a4b556c3b5b4",
   "lastOpenFiles": [
     "黄丽.md",
     "conflict-files-obsidian-git.md",
