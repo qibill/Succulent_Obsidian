@@ -11,11 +11,26 @@
             "id": "3c0abe5d491638af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "达摩宝珠.md",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "5ded114ccc16f7a0",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/graph.json",
+                "staged": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +144,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,8 +162,11 @@
       "obsidian-custom-frames:Open Notion": false
     }
   },
-  "active": "3c0abe5d491638af",
+  "active": "5ded114ccc16f7a0",
   "lastOpenFiles": [
+    "黄丽.md",
+    "conflict-files-obsidian-git.md",
+    "达摩宝珠.md",
     "姬胧月.md",
     "花盆/粉盆.md",
     "火祭.md",
@@ -160,7 +179,6 @@
     "花盆/红晓音.md",
     "三色堇.md",
     "青星美人.md",
-    "黄丽.md",
     "未命名.md",
     "红稚莲.md",
     "锦晃星.md",
@@ -172,8 +190,6 @@
     "乙女心.md",
     "冰绒.md",
     "钱串景天.md",
-    "千佛手.md",
-    "钱串.md",
     "花盆",
     "紫卡",
     "未命名.canvas",
