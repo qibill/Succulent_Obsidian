@@ -11,8 +11,12 @@
             "id": "ca81a4b556c3b5b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "星王子.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "星王子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "星王子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "星王子.md"
+              }
             }
           },
           {
@@ -149,6 +157,10 @@
   },
   "active": "ca81a4b556c3b5b4",
   "lastOpenFiles": [
+    "钱串景天.md",
+    "铭月.md",
+    "鹿角海棠.md",
+    "猎户座.md",
     "黄丽.md",
     "conflict-files-obsidian-git.md",
     "达摩宝珠.md",
@@ -171,10 +183,6 @@
     "星王子.md",
     "蓝鸟.md",
     "紫乐.md",
-    "紫蝶.md",
-    "乙女心.md",
-    "冰绒.md",
-    "钱串景天.md",
     "花盆",
     "紫卡",
     "未命名.canvas",
