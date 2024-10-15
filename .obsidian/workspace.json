@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "807c1876af67692b",
+        "id": "ceddcb75d726cbd6",
         "type": "tabs",
         "children": [
           {
-            "id": "ca81a4b556c3b5b4",
+            "id": "2a88a013c8c5a251",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "新玉缀.md",
+                "file": "锦晃星.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "新玉缀.md",
-                "collapseAll": false,
+                "file": "锦晃星.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "新玉缀.md",
+                "file": "锦晃星.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "新玉缀.md"
+                "file": "锦晃星.md"
               }
-            }
-          },
-          {
-            "id": "4063b1de3f51c0cd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,34 +147,34 @@
       "obsidian-custom-frames:Open Notion": false
     }
   },
-  "active": "ca81a4b556c3b5b4",
+  "active": "2a88a013c8c5a251",
   "lastOpenFiles": [
-    "星王子.md",
-    "钱串景天.md",
-    "铭月.md",
-    "鹿角海棠.md",
-    "猎户座.md",
+    "蓝松.md",
     "黄丽.md",
-    "conflict-files-obsidian-git.md",
-    "达摩宝珠.md",
-    "姬胧月.md",
-    "花盆/粉盆.md",
-    "火祭.md",
     "绒针.md",
-    "长生草.md",
+    "白牡丹.md",
+    "猎户座.md",
+    "达摩宝珠.md",
+    "鹿角海棠.md",
+    "花盆/秋凛子.md",
+    "紫卡.md",
+    "紫乐.md",
+    "乙女心.md",
     "花盆/蓝盆.md",
+    "冰绒.md",
+    "长生草.md",
     "新玉缀.md",
     "花盆/透明杯.md",
-    "花盆/秋凛子.md",
     "花盆/红晓音.md",
     "三色堇.md",
+    "花盆/粉盆.md",
     "青星美人.md",
-    "未命名.md",
+    "火祭.md",
     "红稚莲.md",
     "锦晃星.md",
     "红缘莲花掌.md",
+    "星王子.md",
     "蓝鸟.md",
-    "紫乐.md",
     "花盆",
     "紫卡",
     "未命名.canvas",
