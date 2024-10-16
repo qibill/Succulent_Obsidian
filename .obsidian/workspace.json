@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "紫乐.md",
+                "file": "钱串景天.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "紫乐.md",
+                "file": "钱串景天.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "紫乐.md",
+                "file": "钱串景天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "紫乐.md"
+                "file": "钱串景天.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,13 +161,16 @@
   },
   "active": "cf4ab25c362baa99",
   "lastOpenFiles": [
+    "单盆.md",
+    "红宝石.md",
+    "新玉缀.md",
+    "紫乐.md",
     "紫卡.md",
     "紫蝶.md",
     "长生草.md",
     "乙女心.md",
     "雪兔.md",
     "星王子.md",
-    "新玉缀.md",
     "天使之泪.md",
     "桃蛋.md",
     "三色堇.md",
@@ -185,9 +187,6 @@
     "锦晃星.md",
     "吉娃莲.md",
     "姬胧月.md",
-    "火祭.md",
-    "黄丽.md",
-    "虹之玉.md",
     "花盆",
     "紫卡",
     "未命名.canvas",
