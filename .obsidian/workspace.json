@@ -36,15 +36,15 @@
             }
           },
           {
-            "id": "f5002eeae6abeac8",
+            "id": "0c1fbed57e77ed3d",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.7.4"
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "白牡丹.md",
+                "file": "鹿角海棠.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "白牡丹 的反向链接列表"
+              "title": "鹿角海棠 的反向链接列表"
             }
           },
           {
@@ -139,12 +139,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "白牡丹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "白牡丹 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -166,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "白牡丹.md"
+                "file": "鹿角海棠.md"
               },
               "icon": "lucide-list",
-              "title": "白牡丹 的大纲"
+              "title": "鹿角海棠 的大纲"
             }
           }
         ],
@@ -190,7 +189,7 @@
       "obsidian-custom-frames:Open Notion": false
     }
   },
-  "active": "f5002eeae6abeac8",
+  "active": "0c1fbed57e77ed3d",
   "lastOpenFiles": [
     "黄丽.md",
     "钱串景天.md",
