@@ -46,21 +46,9 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.7.7"
             }
-          },
-          {
-            "id": "f05b12dcd7f32b14",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +190,7 @@
       "obsidian-custom-frames:Open Notion": false
     }
   },
-  "active": "f05b12dcd7f32b14",
+  "active": "0c1fbed57e77ed3d",
   "lastOpenFiles": [
     "黄丽.md",
     "钱串景天.md",
