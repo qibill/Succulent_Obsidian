@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c71765e6b2ca58b1",
+        "id": "a2093cbd95bf2030",
         "type": "tabs",
         "children": [
           {
-            "id": "54dc6b772840c0c9",
+            "id": "6e5b3f418d76f36e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.14"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -162,7 +160,7 @@
       "obsidian-custom-frames:Open Notion": false
     }
   },
-  "active": "54dc6b772840c0c9",
+  "active": "6e5b3f418d76f36e",
   "lastOpenFiles": [
     "白牡丹.md",
     "鹿角海棠.md",
