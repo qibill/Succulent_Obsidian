@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2093cbd95bf2030",
+        "id": "5d555fb13fd8278d",
         "type": "tabs",
         "children": [
           {
-            "id": "6e5b3f418d76f36e",
+            "id": "80b68b2279725633",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,7 +160,7 @@
       "obsidian-custom-frames:Open Notion": false
     }
   },
-  "active": "6e5b3f418d76f36e",
+  "active": "80b68b2279725633",
   "lastOpenFiles": [
     "白牡丹.md",
     "鹿角海棠.md",
