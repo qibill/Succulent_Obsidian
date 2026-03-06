@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5d555fb13fd8278d",
+        "id": "6f87c31dbf2123c6",
         "type": "tabs",
         "children": [
           {
-            "id": "80b68b2279725633",
+            "id": "8213a41278b800e3",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.10.6"
+                "currentVersion": "1.11.7"
               },
               "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "title": "版本说明 1.11.7"
             }
           }
         ]
@@ -152,7 +152,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -162,7 +162,7 @@
       "obsidian-custom-frames:Open Notion": false
     }
   },
-  "active": "80b68b2279725633",
+  "active": "8213a41278b800e3",
   "lastOpenFiles": [
     "白牡丹.md",
     "鹿角海棠.md",
